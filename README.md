@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Paras022
-- 👀 I’m interested in contributing to the open source and competitive coding 
-- 🌱 I’m currently learning open source and DSA
-- 📫 @bieberparas02@gmail.com
+- 👋 Hi, I’m Paras Sharma  @Paras022
+- 👀 I’m interested in web development roles 
+- 🌱 I’m currently learning MERN tech stack 
+- 📫 parassharma0220@gmail.com
 
 <!---
 Paras022/Paras022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
