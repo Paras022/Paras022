@@ -5,6 +5,7 @@
 🚀 About Me:
 I am passionate paras with a passion for full-stack web development and a strong technical foundation in:
 - **C++**
+- **python**
 - **HTML & CSS**
 - **JavaScript (ES6+)**
 - **React.js**
